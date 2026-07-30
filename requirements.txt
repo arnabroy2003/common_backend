@@ -3,6 +3,6 @@ uvicorn[standard]
 openai
 python-dotenv
 sqlalchemy
-psycopg[binary]
 pydantic
 cohere
+psycopg2-binary
