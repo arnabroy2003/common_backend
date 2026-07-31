@@ -18,7 +18,7 @@ app.add_middleware(
         "http://localhost:5173",  # Vite default
         "http://localhost:3000",
         "http://127.0.0.1:5173",
-        "https://5e40-115-187-46-45.ngrok-free.app"
+        "https://common-tau.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],  # Allows OPTIONS, POST, GET, etc.
